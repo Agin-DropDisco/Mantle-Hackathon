@@ -1,4 +1,4 @@
-## **Mantle Mash Gitcoin Hackathon Bounty - DeFi: https://gitcoin.co/issue/29735**
+#### **Mantle Mash Gitcoin Hackathon Bounty - DeFi: https://gitcoin.co/issue/29735**
 
 
 # DexSwap AMM ($DEZU)
