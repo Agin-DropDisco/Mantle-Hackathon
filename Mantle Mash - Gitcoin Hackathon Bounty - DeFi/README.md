@@ -14,6 +14,5 @@ DexSwap is Decentralized Protocol Optimizer for Multiple Exchanges
 
 
 ## **Video**
-#### **How to swap and Create Pair/Add Liquidity: https://youtu.be/tE69YHtUVII**
-
-
+#### **How to swap and Create Pair/Add Liquidity:**
+**https://youtu.be/tE69YHtUVII**
