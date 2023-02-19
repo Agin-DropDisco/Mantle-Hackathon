@@ -8,7 +8,7 @@ Zonulet is a decentralized marketplace that uses most of the Mantle Blockchain [
 ## **Workflow**
 
 <p align="center">
-<img src="./nft.png" />
+<img src="../nft.png" />
 </p>
 
 ## **Video**
