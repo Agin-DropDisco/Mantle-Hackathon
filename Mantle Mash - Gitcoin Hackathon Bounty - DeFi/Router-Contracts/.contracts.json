@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "router": "0x0000000000000000000000000000000000000000"
+  },
+  "mantle_testnet": {
+    "router": "0x7C1388Be20FE4a2FD5039d446a506c7B4401b7BB"
+  }
+}
