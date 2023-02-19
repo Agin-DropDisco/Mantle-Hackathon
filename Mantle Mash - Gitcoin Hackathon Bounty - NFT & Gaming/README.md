@@ -11,7 +11,10 @@ Zonulet is a decentralized marketplace that uses most of the Mantle Blockchain [
 <img src="./nft.png" />
 </p>
 
+## **Video**
 
-## **How to Mint NFT and Listed to the Public Sale: https://youtu.be/XWaYOCaqkz4**
+#### **How to Mint NFT and Listed to the Public Sale:**
+**https://youtu.be/XWaYOCaqkz4**
 
-## **How to Buy NFT and Give them to another Address: https://youtu.be/f6ztefQwnLE**
+#### **How to Buy NFT and Give them to another Address:**
+**https://youtu.be/f6ztefQwnLE**
