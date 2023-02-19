@@ -3,7 +3,7 @@
 
 # DexSwap AMM ($DEZU)
 DexSwap is Decentralized Protocol Optimizer for Multiple Exchanges
-- [x] This AMM correlates with [Zonulet Marketplace](https://zonulet.io) to fetch pair data
+- [x] This AMM correlates with [Zonulet Marketplace](https://zonulet.io) to fetch pair data for each NFT Price, Swap and Staking
 ## **Demo Link: https://amm.zonulet.io**
 
 ## **Workflow**
