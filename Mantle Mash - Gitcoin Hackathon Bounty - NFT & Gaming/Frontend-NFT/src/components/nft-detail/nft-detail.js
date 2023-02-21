@@ -814,7 +814,7 @@ class Mint extends Component {
     const contractone = new web3.eth.Contract(
       mantleabi,
       '0x707f2fE56A440E766bec41aBC9fc8695567D0ceA',
-    ) //WONE
+    ) 
 
     const slippage = Number(this.state.imageData_price * 0.11) + Number(this.state.imageData_price)
 
