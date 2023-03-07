@@ -1,4 +1,6 @@
 # Mantle Mash Hackathon
+## Updated Wallet for Payout ETH ADDRESS
+## 1. 0x3E301431458a4A5151241bBC09D8b80EfECcdcd2
 
 ## Challenge: 1. Mantle Mash Gitcoin Hackathon Bounty - DeFi. [SOURCE CODE](https://github.com/Agin-DropDisco/Mantle-Hackathon/tree/main/Mantle%20Mash%20-%20Gitcoin%20Hackathon%20Bounty%20-%20DeFi)
 
