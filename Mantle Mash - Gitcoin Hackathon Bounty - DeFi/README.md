@@ -1,6 +1,5 @@
 #### **Mantle Mash Gitcoin Hackathon Bounty - DeFi: https://gitcoin.co/issue/29735**
-## Updated Wallet for Payout ETH ADDRESS
-## 1. 0x3E301431458a4A5151241bBC09D8b80EfECcdcd2
+## Updated Wallet for Payout: 0x3E301431458a4A5151241bBC09D8b80EfECcdcd2
 
 # DexSwap AMM ($DEZU)
 DexSwap is Decentralized Protocol Optimizer for Multiple Exchanges
